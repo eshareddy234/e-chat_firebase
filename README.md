@@ -1,5 +1,8 @@
-# Update
+# E - Chat
 
-After the new update of React, you won't be able to use CRA. But you can easily create your applications with Vite before following the video tutorial.
-
-[Create a React App with Vite](https://github.com/safak/youtube23/tree/react-mini)
+This is chat website which is useful for chatting with one another. The user just needs an email for registering. In this there are number of concepts
+used - react firebase Login with Email and Password, can search user, sending real time chat messages.                                                          
+Technologies used are ...
+Frontend - React JS
+Backend - Firebase
+Database - Firebase
